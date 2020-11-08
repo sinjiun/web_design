@@ -1,0 +1,18 @@
+a {
+    text-decoration: none;
+    color : coral;
+}
+
+a:hover {
+    color: cornflowerblue;
+}
+
+a:target {
+    background-color: cornsilk;
+    color :darkred;
+}
+
+hl{
+    font-size: 30px;
+    color: brown;
+}
